@@ -44,6 +44,14 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 
 - Clase 8 - Miércoles 4 Octubre 
 
+- Clase 9 - Miércoles 11 Octubre 
+
+- Clase 10 - Miércoles 18 Octubre 
+
+- Clase 11 - Miércoles 25 Octubre 
+
+- Clase 12 - Miércoles 1 Noviembre
+  
 ---
 
 ## <img width="40" height="40" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/external-scrum-ux-and-ui-icons-flaticons-lineal-color-flat-icons.png" alt="external-scrum-ux-and-ui-icons-flaticons-lineal-color-flat-icons"/> Scrum y responsable de la tarea
@@ -58,6 +66,10 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 | 6 | Chavez, Rodrigo | Costa, Maria Eugenia |
 | 7 | Ahumada, Brian | Alancay, Abel Matias |
 | 8 | Alsina, Maximiliano Gabriel | Berrini, Alejandro |
+| 9 | Calle, Sonia | Chavez, Rodrigo |
+| 10 | Costa, Maria Eugenia | Navarro, Lucas |
+| 11 | Sanguinetti Flores, Pablo |  Ahumada, Brian |
+| 12 | Alancay, Abel Matias | Alsina, Maximiliano Gabriel |
 
 -> [Link al Dashboard](https://github.com/orgs/CodeSystem2022/projects/1161)
 
