@@ -28,7 +28,7 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 
 ## <img width="40" height="40" src="https://img.icons8.com/fluency/40/book.png" alt="book"/> Clases
 
-- [Clase 1 - Miércoles 16 Agosto}(https://github.com/CodeSystem2022/ERROR404-METODOLOGIA-DE-SISTEMAS/tree/main/Clase_01/SistemaEstudiantes)
+- [Clase 1 - Miércoles 16 Agosto](https://github.com/CodeSystem2022/ERROR404-METODOLOGIA-DE-SISTEMAS/tree/main/Clase_01/SistemaEstudiantes): Aplicación Sistema Estudiantes Parte 3 (Java)
   
 - Clase 2 -  Miércoles 23 Agosto
 
