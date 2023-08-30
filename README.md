@@ -56,20 +56,20 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 
 ## <img width="40" height="40" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/external-scrum-ux-and-ui-icons-flaticons-lineal-color-flat-icons.png" alt="external-scrum-ux-and-ui-icons-flaticons-lineal-color-flat-icons"/> Scrum y responsable de la tarea
 
-| CLASE | SCRUM | DESARROLLADOR/A |
-| ----- | ------ | -------------- |
-| 1 | Calle, Sonia | Chavez, Rodrigo |
-| 2 | Costa, Maria Eugenia | Navarro, Lucas |
-| 3 | Sanguinetti Flores, Pablo | Ahumada, Brian |
-| 4 | Alancay, Abel Matias | Alsina, Maximiliano Gabriel |
-| 5 | Berrini, Alejandro | Calle, Sonia |
-| 6 | Chavez, Rodrigo | Costa, Maria Eugenia |
-| 7 | Ahumada, Brian | Alancay, Abel Matias |
-| 8 | Alsina, Maximiliano Gabriel | Berrini, Alejandro |
-| 9 | Calle, Sonia | Chavez, Rodrigo |
-| 10 | Costa, Maria Eugenia | Navarro, Lucas |
-| 11 | Sanguinetti Flores, Pablo |  Ahumada, Brian |
-| 12 | Alancay, Abel Matias | Alsina, Maximiliano Gabriel |
+| CLASE | SCRUM | DESARROLLADOR/A | FINALIZADO |
+| ----- | ------ | -------------- | ---------- |
+| 1 | Calle, Sonia | Chavez, Rodrigo | 16AUG  <img width="30" height="30" src="https://img.icons8.com/color/30/checked-checkbox.png" alt="checked-checkbox"/> |
+| 2 | Costa, Maria Eugenia | Navarro, Lucas | 23 AUG  |
+| 3 | Sanguinetti Flores, Pablo | Ahumada, Brian | 30 AUG|
+| 4 | Alancay, Abel Matias | Alsina, Maximiliano Gabriel | |
+| 5 | Berrini, Alejandro | Calle, Sonia | |
+| 6 | Chavez, Rodrigo | Costa, Maria Eugenia | |
+| 7 | Ahumada, Brian | Alancay, Abel Matias | |
+| 8 | Alsina, Maximiliano Gabriel | Berrini, Alejandro | |
+| 9 | Calle, Sonia | Chavez, Rodrigo | |
+| 10 | Costa, Maria Eugenia | Navarro, Lucas | |
+| 11 | Sanguinetti Flores, Pablo |  Ahumada, Brian | |
+| 12 | Alancay, Abel Matias | Alsina, Maximiliano Gabriel | |
 
 -> [Link al Dashboard](https://github.com/orgs/CodeSystem2022/projects/1161)
 
