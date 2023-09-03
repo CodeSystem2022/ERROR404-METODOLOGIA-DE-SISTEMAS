@@ -60,8 +60,8 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 | ----- | ------ | -------------- | ---------- |
 | 1 | Calle, Sonia | Chavez, Rodrigo |  <img width="30" height="30" src="https://img.icons8.com/color/30/checked-checkbox.png" alt="checked-checkbox"/> 16AUG  |
 | 2 | Costa, Maria Eugenia | Navarro, Lucas | 23 AUG  |
-| 3 | Sanguinetti Flores, Pablo | Ahumada, Brian | 30 AUG|
-| 4 | Alancay, Abel Matias | Alsina, Maximiliano Gabriel | |
+| 3 | Sanguinetti Flores, Pablo | Ahumada, Brian | 30 AUG |
+| 4 | Alancay, Abel Matias | Alsina, Maximiliano Gabriel | 6 SEP |
 | 5 | Berrini, Alejandro | Calle, Sonia | |
 | 6 | Chavez, Rodrigo | Costa, Maria Eugenia | |
 | 7 | Ahumada, Brian | Alancay, Abel Matias | |
