@@ -28,9 +28,9 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 
 ## <img width="40" height="40" src="https://img.icons8.com/fluency/40/book.png" alt="book"/> Clases
 
-- [Clase 1 - Miércoles 16 Agosto](https://github.com/CodeSystem2022/ERROR404-METODOLOGIA-DE-SISTEMAS/tree/main/Clase_01/SistemaEstudiantes): Aplicación Sistema Estudiantes Parte 3 (Java)
+- Clase 1 - Miércoles 16 Agosto: [Aplicación Sistema Estudiantes](https://github.com/CodeSystem2022/ERROR404-METODOLOGIA-DE-SISTEMAS/tree/main/Clase_01/SistemaEstudiantes ->  Parte 3 (Java)
   
-- Clase 2 -  Miércoles 23 Agosto: [Aplicación de Sistema Estudiantes con Spring Boot](https://github.com/CodeSystem2022/ERROR404-METODOLOGIA-DE-SISTEMAS/tree/main/Clase_02/estudiantes) -> Parte 1(Java) / [Hola Mundo desde Node y algo más...](https://github.com/CodeSystem2022/ERROR404-METODOLOGIA-DE-SISTEMAS/tree/main/NODE/01-Hola-Mundo)
+- Clase 2 -  Miércoles 23 Agosto: [Aplicación de Sistema Estudiantes con Spring Boot](https://github.com/CodeSystem2022/ERROR404-METODOLOGIA-DE-SISTEMAS/tree/main/Clase_02/estudiantes) -> Parte 1(Java) / [Hola Mundo desde Node y algo más...](https://github.com/CodeSystem2022/ERROR404-METODOLOGIA-DE-SISTEMAS/tree/main/NODE/01-Hola-Mundo) -> Node
 
 - Clase 3 -  Miércoles 30 Agosto
 
@@ -58,10 +58,10 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 
 | CLASE | SCRUM | DESARROLLADOR/A | FINALIZADO |
 | ----- | ------ | -------------- | ---------- |
-| 1 -16AUG | Calle, Sonia | Chavez, Rodrigo |  <img width="30" height="30" src="https://img.icons8.com/color/30/checked-checkbox.png" alt="checked-checkbox"/>   |
-| 2 - 23 AUG | Costa, Maria Eugenia | Navarro, Lucas |   <img width="30" height="30" src="https://img.icons8.com/color/30/checked-checkbox.png" alt="checked-checkbox"/>   |
-| 3 - 30 AUG | Sanguinetti Flores, Pablo | Ahumada, Brian | x |
-| 4 - 6 SEP  | Alancay, Abel Matias | Alsina, Maximiliano Gabriel | x |
+| 1 - 16AUG | Calle, Sonia | Chavez, Rodrigo |  <img width="30" height="30" src="https://img.icons8.com/color/30/checked-checkbox.png" alt="checked-checkbox"/>   |
+| 2 - 23AUG | Costa, Maria Eugenia | Navarro, Lucas |   <img width="30" height="30" src="https://img.icons8.com/color/30/checked-checkbox.png" alt="checked-checkbox"/>   |
+| 3 - 30AUG | Sanguinetti Flores, Pablo | Ahumada, Brian | x |
+| 4 - 6SEP  | Alancay, Abel Matias | Alsina, Maximiliano Gabriel | x |
 | 5 - 13SEP | Berrini, Alejandro | Calle, Sonia | x |
 | 6 - 20SEP | Chavez, Rodrigo | Costa, Maria Eugenia | x |
 | 7 - 27SEP | Ahumada, Brian | Alancay, Abel Matias | x |
