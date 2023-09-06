@@ -58,18 +58,18 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 
 | CLASE | SCRUM | DESARROLLADOR/A | FINALIZADO |
 | ----- | ------ | -------------- | ---------- |
-| 1 | Calle, Sonia | Chavez, Rodrigo |  <img width="30" height="30" src="https://img.icons8.com/color/30/checked-checkbox.png" alt="checked-checkbox"/> 16AUG  |
-| 2 | Costa, Maria Eugenia | Navarro, Lucas |   <img width="30" height="30" src="https://img.icons8.com/color/30/checked-checkbox.png" alt="checked-checkbox"/> 23 AUG  |
-| 3 | Sanguinetti Flores, Pablo | Ahumada, Brian | 30 AUG |
-| 4 | Alancay, Abel Matias | Alsina, Maximiliano Gabriel | 6 SEP |
-| 5 | Berrini, Alejandro | Calle, Sonia | |
-| 6 | Chavez, Rodrigo | Costa, Maria Eugenia | |
-| 7 | Ahumada, Brian | Alancay, Abel Matias | |
-| 8 | Alsina, Maximiliano Gabriel | Berrini, Alejandro | |
-| 9 | Calle, Sonia | Chavez, Rodrigo | |
-| 10 | Costa, Maria Eugenia | Navarro, Lucas | |
-| 11 | Sanguinetti Flores, Pablo |  Ahumada, Brian | |
-| 12 | Alancay, Abel Matias | Alsina, Maximiliano Gabriel | |
+| 1 -16AUG | Calle, Sonia | Chavez, Rodrigo |  <img width="30" height="30" src="https://img.icons8.com/color/30/checked-checkbox.png" alt="checked-checkbox"/>   |
+| 2 - 23 AUG | Costa, Maria Eugenia | Navarro, Lucas |   <img width="30" height="30" src="https://img.icons8.com/color/30/checked-checkbox.png" alt="checked-checkbox"/>   |
+| 3 - 30 AUG | Sanguinetti Flores, Pablo | Ahumada, Brian | x |
+| 4 - 6 SEP  | Alancay, Abel Matias | Alsina, Maximiliano Gabriel | x |
+| 5 - 13SEP | Berrini, Alejandro | Calle, Sonia | x |
+| 6 - 20SEP | Chavez, Rodrigo | Costa, Maria Eugenia | x |
+| 7 - 27SEP | Ahumada, Brian | Alancay, Abel Matias | x |
+| 8 - 4OCT | Alsina, Maximiliano Gabriel | Berrini, Alejandro | x |
+| 9 - 11OCT | Calle, Sonia | Chavez, Rodrigo | |
+| 10 - 18OCT | Costa, Maria Eugenia | Navarro, Lucas | |
+| 11 - 25OCT | Sanguinetti Flores, Pablo |  Ahumada, Brian | |
+| 12 - 1NOV | Alancay, Abel Matias | Alsina, Maximiliano Gabriel | |
 
 -> [Link al Dashboard](https://github.com/orgs/CodeSystem2022/projects/1161)
 
