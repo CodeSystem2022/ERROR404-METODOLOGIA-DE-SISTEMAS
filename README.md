@@ -30,7 +30,7 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 
 - [Clase 1 - Miércoles 16 Agosto](https://github.com/CodeSystem2022/ERROR404-METODOLOGIA-DE-SISTEMAS/tree/main/Clase_01/SistemaEstudiantes): Aplicación Sistema Estudiantes Parte 3 (Java)
   
-- Clase 2 -  Miércoles 23 Agosto: Aplicación de Sistema Estudiantes con Spring Boot -> Parte 1(Java) / Hola Mundo desde Node y algo más...
+- Clase 2 -  Miércoles 23 Agosto: [Aplicación de Sistema Estudiantes con Spring Boot](https://github.com/CodeSystem2022/ERROR404-METODOLOGIA-DE-SISTEMAS/tree/main/Clase_02/estudiantes) -> Parte 1(Java) / Hola Mundo desde Node y algo más...
 
 - Clase 3 -  Miércoles 30 Agosto
 
