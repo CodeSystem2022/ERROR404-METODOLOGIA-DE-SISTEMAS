@@ -66,10 +66,10 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 | 6 - 20SEP | Chavez, Rodrigo | Costa, Maria Eugenia | x |
 | 7 - 27SEP | Ahumada, Brian | Alancay, Abel Matias | x |
 | 8 - 4OCT | Alsina, Maximiliano Gabriel | Berrini, Alejandro | x |
-| 9 - 11OCT | Calle, Sonia | Chavez, Rodrigo | |
-| 10 - 18OCT | Costa, Maria Eugenia | Navarro, Lucas | |
-| 11 - 25OCT | Sanguinetti Flores, Pablo |  Ahumada, Brian | |
-| 12 - 1NOV | Alancay, Abel Matias | Alsina, Maximiliano Gabriel | |
+| 9 - 11OCT | Calle, Sonia | Chavez, Rodrigo | x |
+| 10 - 18OCT | Costa, Maria Eugenia | Navarro, Lucas | x |
+| 11 - 25OCT | Sanguinetti Flores, Pablo |  Ahumada, Brian | x |
+| 12 - 1NOV | Alancay, Abel Matias | Alsina, Maximiliano Gabriel | x |
 
 -> [Link al Dashboard](https://github.com/orgs/CodeSystem2022/projects/1161)
 
