@@ -28,13 +28,25 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 
 ## <img width="40" height="40" src="https://img.icons8.com/fluency/40/book.png" alt="book"/> Clases
 
-- Clase 1 - Miércoles 16 Agosto: [Aplicación Sistema Estudiantes](https://github.com/CodeSystem2022/ERROR404-METODOLOGIA-DE-SISTEMAS/tree/main/Clase_01/SistemaEstudiantes) ->  Parte 3 (Java)
+- Clase 1 - Miércoles 16 Agosto:
+
+-> Java: [Aplicación Sistema Estudiantes](https://github.com/CodeSystem2022/ERROR404-METODOLOGIA-DE-SISTEMAS/tree/main/Clase_01/SistemaEstudiantes) ->  Parte 3 
   
-- Clase 2 -  Miércoles 23 Agosto: [Aplicación de Sistema Estudiantes con Spring Boot](https://github.com/CodeSystem2022/ERROR404-METODOLOGIA-DE-SISTEMAS/tree/main/Clase_02/estudiantes) -> Parte 1(Java) / [Hola Mundo desde Node y algo más...](https://github.com/CodeSystem2022/ERROR404-METODOLOGIA-DE-SISTEMAS/tree/main/NODE/01-Hola-Mundo) -> Node
+- Clase 2 -  Miércoles 23 Agosto:
 
-- Clase 3 -  Miércoles 30 Agosto: [Aplicación de Sistema Estudiantes con Spring Boot](https://github.com/CodeSystem2022/ERROR404-METODOLOGIA-DE-SISTEMAS/tree/main/Clase_03) -> Parte 2(Java) / [Comenzamos con pruebas en ejecución](https://github.com/CodeSystem2022/ERROR404-METODOLOGIA-DE-SISTEMAS/tree/main/NODE/01-Hola-Mundo) -> Node
+-> Java: [Aplicación de Sistema Estudiantes con Spring Boot](https://github.com/CodeSystem2022/ERROR404-METODOLOGIA-DE-SISTEMAS/tree/main/Clase_02/estudiantes) -> Parte 1 
 
-- Clase 4 - Miércoles 6 Septiembre: [Aplicación de Sistema Estudiantes con Spring Boot](https://github.com/CodeSystem2022/ERROR404-METODOLOGIA-DE-SISTEMAS/tree/main/Clase_04/estudiantes) -> Parte 3(Java)
+-> Node: [Hola Mundo desde Node y algo más...](https://github.com/CodeSystem2022/ERROR404-METODOLOGIA-DE-SISTEMAS/tree/main/NODE/01-Hola-Mundo) 
+
+- Clase 3 -  Miércoles 30 Agosto:
+
+ -> Java: [Aplicación de Sistema Estudiantes con Spring Boot](https://github.com/CodeSystem2022/ERROR404-METODOLOGIA-DE-SISTEMAS/tree/main/Clase_03) -> Parte 2
+ 
+ -> Node: [Comenzamos con pruebas en ejecución](https://github.com/CodeSystem2022/ERROR404-METODOLOGIA-DE-SISTEMAS/tree/main/NODE/01-Hola-Mundo) 
+
+- Clase 4 - Miércoles 6 Septiembre:
+
+-> Java: [Aplicación de Sistema Estudiantes con Spring Boot](https://github.com/CodeSystem2022/ERROR404-METODOLOGIA-DE-SISTEMAS/tree/main/Clase_04/estudiantes) -> Parte 3
 
 - Clase 5 -  Miércoles 13 Septiembre
 
