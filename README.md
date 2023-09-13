@@ -32,9 +32,9 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
   
 - Clase 2 -  Miércoles 23 Agosto: [Aplicación de Sistema Estudiantes con Spring Boot](https://github.com/CodeSystem2022/ERROR404-METODOLOGIA-DE-SISTEMAS/tree/main/Clase_02/estudiantes) -> Parte 1(Java) / [Hola Mundo desde Node y algo más...](https://github.com/CodeSystem2022/ERROR404-METODOLOGIA-DE-SISTEMAS/tree/main/NODE/01-Hola-Mundo) -> Node
 
-- Clase 3 -  Miércoles 30 Agosto
+- Clase 3 -  Miércoles 30 Agosto: [Aplicación de Sistema Estudiantes con Spring Boot](https://github.com/CodeSystem2022/ERROR404-METODOLOGIA-DE-SISTEMAS/tree/Develop/Clase_03) -> Parte 2(Java) / [Comenzamos con pruebas en ejecución](https://github.com/CodeSystem2022/ERROR404-METODOLOGIA-DE-SISTEMAS/tree/main/NODE/01-Hola-Mundo) -> Node
 
-- Clase 4 - Miércoles 6 Septiembre
+- Clase 4 - Miércoles 6 Septiembre: [Aplicación de Sistema Estudiantes con Spring Boot](https://github.com/CodeSystem2022/ERROR404-METODOLOGIA-DE-SISTEMAS/tree/Develop/Clase_04/estudiantes) -> Parte 3(Java)
 
 - Clase 5 -  Miércoles 13 Septiembre
 
@@ -60,8 +60,8 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 | ----- | ------ | -------------- | ---------- |
 | 1 - 16AUG | Calle, Sonia | Chavez, Rodrigo |  <img width="30" height="30" src="https://img.icons8.com/color/30/checked-checkbox.png" alt="checked-checkbox"/>   |
 | 2 - 23AUG | Costa, Maria Eugenia | Navarro, Lucas |   <img width="30" height="30" src="https://img.icons8.com/color/30/checked-checkbox.png" alt="checked-checkbox"/>   |
-| 3 - 30AUG | Sanguinetti Flores, Pablo | Ahumada, Brian | x |
-| 4 - 6SEP  | Alancay, Abel Matias | Alsina, Maximiliano Gabriel | x |
+| 3 - 30AUG | Sanguinetti Flores, Pablo | Ahumada, Brian | <img width="30" height="30" src="https://img.icons8.com/color/30/checked-checkbox.png" alt="checked-checkbox"/> |
+| 4 - 6SEP  | Alancay, Abel Matias | Alsina, Maximiliano Gabriel | <img width="30" height="30" src="https://img.icons8.com/color/30/checked-checkbox.png" alt="checked-checkbox"/> |
 | 5 - 13SEP | Berrini, Alejandro | Calle, Sonia | x |
 | 6 - 20SEP | Chavez, Rodrigo | Costa, Maria Eugenia | x |
 | 7 - 27SEP | Ahumada, Brian | Alancay, Abel Matias | x |
