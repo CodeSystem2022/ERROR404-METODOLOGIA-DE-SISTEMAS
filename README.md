@@ -54,7 +54,7 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 
 -> Java: Aplicación de Sistema Estudiantes con Spring Boot -> Parte 4
 
--> Node: jecutamos viendo la asincronía de Node
+-> Node: Ejecutamos viendo la asincronía de Node
 
 - Clase 6 -  Miércoles 20 Septiembre
 
