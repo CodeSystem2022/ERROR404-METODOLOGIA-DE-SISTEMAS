@@ -52,7 +52,7 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 
 - Clase 5 -  Miércoles 13 Septiembre
 
--> Java: Aplicación de Sistema Estudiantes con Spring Boot -> Parte 4
+-> Java: [Aplicación de Sistema Estudiantes con Spring Boot](https://github.com/CodeSystem2022/ERROR404-METODOLOGIA-DE-SISTEMAS/tree/main/Clase_05/estudiantes) -> Parte 4
 
 -> Node: [Ejecutamos viendo la asincronía de Node](https://github.com/CodeSystem2022/ERROR404-METODOLOGIA-DE-SISTEMAS/tree/main/NODE5/Clase_05/01-Hola-Mundo)
 
