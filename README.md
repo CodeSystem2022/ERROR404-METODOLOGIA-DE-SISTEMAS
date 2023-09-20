@@ -48,11 +48,17 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 
 -> Java: [Aplicación de Sistema Estudiantes con Spring Boot](https://github.com/CodeSystem2022/ERROR404-METODOLOGIA-DE-SISTEMAS/tree/main/Clase_04/estudiantes) -> Parte 3
 
+-> Node: rofundizamos la teoría en Node
+
 - Clase 5 -  Miércoles 13 Septiembre
 
 -> Java: Aplicación de Sistema Estudiantes con Spring Boot -> Parte 4
 
+-> Node: jecutamos viendo la asincronía de Node
+
 - Clase 6 -  Miércoles 20 Septiembre
+
+-> Java: Proyecto Tienda de Libros con SpringBoot y Swing -> Parte 01
 
 - Clase 7 - Miércoles 27 Septiembre
 
