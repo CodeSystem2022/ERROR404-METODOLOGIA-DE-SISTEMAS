@@ -60,6 +60,8 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 
 -> Java: Proyecto Tienda de Libros con SpringBoot y Swing -> Parte 01
 
+-> Node: [variables de entorno](https://github.com/CodeSystem2022/ERROR404-METODOLOGIA-DE-SISTEMAS/tree/main/node_clase6)
+
 - Clase 7 - Miércoles 27 Septiembre
 
 - Clase 8 - Miércoles 4 Octubre 
