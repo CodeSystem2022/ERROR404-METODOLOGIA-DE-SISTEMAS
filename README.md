@@ -141,3 +141,8 @@ En el Dashboard por cada tarea, la convertimos en **issue**, usamos ese número 
 
 ---
 
+## :book: TAGS
+
+[Documentacion](https://git-scm.com/book/es/v2/Fundamentos-de-Git-Etiquetado)
+
+---
