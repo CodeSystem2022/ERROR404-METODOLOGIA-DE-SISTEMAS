@@ -58,7 +58,7 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 
 - Clase 6 -  Miércoles 20 Septiembre
 
--> Java: Proyecto Tienda de Libros con SpringBoot y Swing -> Parte 01
+-> Java: [Proyecto Tienda de Libros con SpringBoot y Swing -> Parte 01](https://github.com/CodeSystem2022/ERROR404-METODOLOGIA-DE-SISTEMAS/tree/main/clase_06_tienda_libros)
 
 -> Node: [variables de entorno](https://github.com/CodeSystem2022/ERROR404-METODOLOGIA-DE-SISTEMAS/tree/main/node_clase6)
 
@@ -85,7 +85,7 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 | 3 - 30AUG | Sanguinetti Flores, Pablo | Ahumada, Brian | <img width="30" height="30" src="https://img.icons8.com/color/30/checked-checkbox.png" alt="checked-checkbox"/> |
 | 4 - 6SEP  | Alancay, Abel Matias | Alsina, Maximiliano Gabriel | <img width="30" height="30" src="https://img.icons8.com/color/30/checked-checkbox.png" alt="checked-checkbox"/> |
 | 5 - 13SEP | Berrini, Alejandro | Calle, Sonia | <img width="30" height="30" src="https://img.icons8.com/color/30/checked-checkbox.png" alt="checked-checkbox"/> |
-| 6 - 20SEP | Chavez, Rodrigo | Costa, Maria Eugenia | x |
+| 6 - 20SEP | Chavez, Rodrigo | Costa, Maria Eugenia | <img width="30" height="30" src="https://img.icons8.com/color/30/checked-checkbox.png" alt="checked-checkbox"/> |
 | 7 - 27SEP | Ahumada, Brian | Alancay, Abel Matias | x |
 | 8 - 4OCT | Alsina, Maximiliano Gabriel | Berrini, Alejandro | x |
 | 9 - 11OCT | Calle, Sonia | Chavez, Rodrigo | x |
