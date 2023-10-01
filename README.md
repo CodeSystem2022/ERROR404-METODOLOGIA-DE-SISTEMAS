@@ -58,7 +58,7 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 
 - Clase 6 -  Miércoles 20 Septiembre
 
--> Java: [Proyecto Tienda de Libros con SpringBoot y Swing -> Parte 01](https://github.com/CodeSystem2022/ERROR404-METODOLOGIA-DE-SISTEMAS/tree/main/clase_06_tienda_libros)
+-> Java: [Proyecto Tienda de Libros con SpringBoot y Swing](https://github.com/CodeSystem2022/ERROR404-METODOLOGIA-DE-SISTEMAS/tree/main/clase_06_tienda_libros)  -> Parte 01
 
 -> Node: [variables de entorno](https://github.com/CodeSystem2022/ERROR404-METODOLOGIA-DE-SISTEMAS/tree/main/node_clase6)
 
