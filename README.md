@@ -63,6 +63,7 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 -> Node: [variables de entorno](https://github.com/CodeSystem2022/ERROR404-METODOLOGIA-DE-SISTEMAS/tree/main/node_clase6)
 
 - Clase 7 - Miércoles 27 Septiembre
+  
 -> java: [Proyecto Tienda de Libros con SpringBoot y Swing](https://github.com/CodeSystem2022/ERROR404-METODOLOGIA-DE-SISTEMAS/tree/main/clase_07_tienda_libros-parte2) -> Parte 02
 
 -> Node:[Herramienta de desarrollo y producción](https://github.com/CodeSystem2022/ERROR404-METODOLOGIA-DE-SISTEMAS/tree/main/node_clase7/01-hola-mundo)  
