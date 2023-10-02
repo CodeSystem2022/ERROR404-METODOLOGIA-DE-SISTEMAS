@@ -50,19 +50,19 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 
 -> Node: rofundizamos la teoría en Node
 
-- Clase 5 -  Miércoles 13 Septiembre
+- Clase 5 -  Miércoles 13 Septiembre:
 
 -> Java: [Aplicación de Sistema Estudiantes con Spring Boot](https://github.com/CodeSystem2022/ERROR404-METODOLOGIA-DE-SISTEMAS/tree/main/Clase_05/estudiantes) -> Parte 4
 
 -> Node: [Ejecutamos viendo la asincronía de Node](https://github.com/CodeSystem2022/ERROR404-METODOLOGIA-DE-SISTEMAS/tree/main/NODE5/Clase_05/01-Hola-Mundo)
 
-- Clase 6 -  Miércoles 20 Septiembre
+- Clase 6 -  Miércoles 20 Septiembre:
 
 -> Java: [Proyecto Tienda de Libros con SpringBoot y Swing](https://github.com/CodeSystem2022/ERROR404-METODOLOGIA-DE-SISTEMAS/tree/main/clase_06_tienda_libros)  -> Parte 01
 
 -> Node: [variables de entorno](https://github.com/CodeSystem2022/ERROR404-METODOLOGIA-DE-SISTEMAS/tree/main/node_clase6)
 
-- Clase 7 - Miércoles 27 Septiembre
+- Clase 7 - Miércoles 27 Septiembre:
   
 -> java: [Proyecto Tienda de Libros con SpringBoot y Swing](https://github.com/CodeSystem2022/ERROR404-METODOLOGIA-DE-SISTEMAS/tree/main/clase_07_tienda_libros-parte2) -> Parte 02
 
