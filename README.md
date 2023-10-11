@@ -68,7 +68,11 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 
 -> Node:[Herramienta de desarrollo y producción](https://github.com/CodeSystem2022/ERROR404-METODOLOGIA-DE-SISTEMAS/tree/main/node_clase7/01-hola-mundo)  
 
-- Clase 8 - Miércoles 4 Octubre 
+- Clase 8 - Miércoles 4 Octubre:
+  
+-> java: [Proyecto Tienda de Libros con SpringBoot y Swing](https://github.com/CodeSystem2022/ERROR404-METODOLOGIA-DE-SISTEMAS/tree/main/clase_08_tienda_libros-parte3) -> Parte 03
+
+-> Node:[Herramienta de desarrollo y producción](https://https://github.com/CodeSystem2022/ERROR404-METODOLOGIA-DE-SISTEMAS/tree/main/node_clase8) 
 
 - Clase 9 - Miércoles 11 Octubre 
 
@@ -91,7 +95,7 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 | 5 - 13SEP | Berrini, Alejandro | Calle, Sonia | <img width="30" height="30" src="https://img.icons8.com/color/30/checked-checkbox.png" alt="checked-checkbox"/> |
 | 6 - 20SEP | Chavez, Rodrigo | Costa, Maria Eugenia | <img width="30" height="30" src="https://img.icons8.com/color/30/checked-checkbox.png" alt="checked-checkbox"/> |
 | 7 - 27SEP | Ahumada, Brian | Alancay, Abel Matias | <img width="30" height="30" src="https://img.icons8.com/color/30/checked-checkbox.png" alt="checked-checkbox"/> |
-| 8 - 4OCT | Alsina, Maximiliano Gabriel | Berrini, Alejandro | x |
+| 8 - 4OCT | Alsina, Maximiliano Gabriel | Berrini, Alejandro | <img width="30" height="30" src="https://img.icons8.com/color/30/checked-checkbox.png" alt="checked-checkbox"/> |
 | 9 - 11OCT | Calle, Sonia | Chavez, Rodrigo | x |
 | 10 - 18OCT | Costa, Maria Eugenia | Navarro, Lucas | x |
 | 11 - 25OCT | Sanguinetti Flores, Pablo |  Ahumada, Brian | x |
