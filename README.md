@@ -78,6 +78,8 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 
 -> [Java](https://github.com/CodeSystem2022/ERROR404-METODOLOGIA-DE-SISTEMAS/tree/main/Clase_09)
 
+-> [Node](https://github.com/CodeSystem2022/ERROR404-METODOLOGIA-DE-SISTEMAS/tree/main/node_clase9)
+
 - Clase 10 - Miércoles 18 Octubre 
 
 - Clase 11 - Miércoles 25 Octubre 
