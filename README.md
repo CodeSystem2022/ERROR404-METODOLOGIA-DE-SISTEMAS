@@ -76,6 +76,8 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 
 - Clase 9 - Miércoles 11 Octubre 
 
+-> [Java](https://github.com/CodeSystem2022/ERROR404-METODOLOGIA-DE-SISTEMAS/tree/main/Clase_09)
+
 - Clase 10 - Miércoles 18 Octubre 
 
 - Clase 11 - Miércoles 25 Octubre 
@@ -96,7 +98,7 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 | 6 - 20SEP | Chavez, Rodrigo | Costa, Maria Eugenia | <img width="30" height="30" src="https://img.icons8.com/color/30/checked-checkbox.png" alt="checked-checkbox"/> |
 | 7 - 27SEP | Ahumada, Brian | Alancay, Abel Matias | <img width="30" height="30" src="https://img.icons8.com/color/30/checked-checkbox.png" alt="checked-checkbox"/> |
 | 8 - 4OCT | Alsina, Maximiliano Gabriel | Berrini, Alejandro | <img width="30" height="30" src="https://img.icons8.com/color/30/checked-checkbox.png" alt="checked-checkbox"/> |
-| 9 - 11OCT | Calle, Sonia | Chavez, Rodrigo | x |
+| 9 - 11OCT | Calle, Sonia | Chavez, Rodrigo | <img width="30" height="30" src="https://img.icons8.com/color/30/checked-checkbox.png" alt="checked-checkbox"/> |
 | 10 - 18OCT | Costa, Maria Eugenia | Navarro, Lucas | x |
 | 11 - 25OCT |  Ahumada, Brian| Sanguinetti Flores, Pablo  | x |
 | 12 - 1NOV | Alancay, Abel Matias | Alsina, Maximiliano Gabriel | x |
