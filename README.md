@@ -101,7 +101,7 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 | 7 - 27SEP | Ahumada, Brian | Alancay, Abel Matias | <img width="30" height="30" src="https://img.icons8.com/color/30/checked-checkbox.png" alt="checked-checkbox"/> |
 | 8 - 4OCT | Alsina, Maximiliano Gabriel | Berrini, Alejandro | <img width="30" height="30" src="https://img.icons8.com/color/30/checked-checkbox.png" alt="checked-checkbox"/> |
 | 9 - 11OCT | Calle, Sonia | Chavez, Rodrigo | <img width="30" height="30" src="https://img.icons8.com/color/30/checked-checkbox.png" alt="checked-checkbox"/> |
-| 10 - 18OCT | Costa, Maria Eugenia | Navarro, Lucas | x |
+| 10 - 18OCT | Costa, Maria Eugenia | Navarro, Lucas | <img width="30" height="30" src="https://img.icons8.com/color/30/checked-checkbox.png" alt="checked-checkbox"/> |
 | 11 - 25OCT |  Ahumada, Brian| Sanguinetti Flores, Pablo  | x |
 | 12 - 1NOV | Alancay, Abel Matias | Alsina, Maximiliano Gabriel | x |
 
