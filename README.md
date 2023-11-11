@@ -87,7 +87,7 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 - Clase 12 - Miércoles 1 Noviembre
   [Node](https://github.com/CodeSystem2022/ERROR404-METODOLOGIA-DE-SISTEMAS/tree/main/node_clase12)
 - Clase 13 - Miércoles 8 Noviembre
-  [Node]()
+  [Node](https://github.com/CodeSystem2022/ERROR404-METODOLOGIA-DE-SISTEMAS/tree/main/node_clase13)
 ---
 
 ## <img width="40" height="40" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/external-scrum-ux-and-ui-icons-flaticons-lineal-color-flat-icons.png" alt="external-scrum-ux-and-ui-icons-flaticons-lineal-color-flat-icons"/> Scrum y responsable de la tarea
