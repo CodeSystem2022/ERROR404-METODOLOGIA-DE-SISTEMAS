@@ -86,6 +86,8 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 [Node](https://github.com/CodeSystem2022/ERROR404-METODOLOGIA-DE-SISTEMAS/tree/main/node_clase11)
 - Clase 12 - Miércoles 1 Noviembre
   [Node](https://github.com/CodeSystem2022/ERROR404-METODOLOGIA-DE-SISTEMAS/tree/main/node_clase12)
+- Clase 13 - Miércoles 8 Noviembre
+  [Node]()
 ---
 
 ## <img width="40" height="40" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/external-scrum-ux-and-ui-icons-flaticons-lineal-color-flat-icons.png" alt="external-scrum-ux-and-ui-icons-flaticons-lineal-color-flat-icons"/> Scrum y responsable de la tarea
@@ -104,6 +106,7 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 | 10 - 18OCT | Costa, Maria Eugenia | Navarro, Lucas | <img width="30" height="30" src="https://img.icons8.com/color/30/checked-checkbox.png" alt="checked-checkbox"/> |
 | 11 - 25OCT |  Ahumada, Brian| Sanguinetti Flores, Pablo  | <img width="30" height="30" src="https://img.icons8.com/color/30/checked-checkbox.png" alt="checked-checkbox"/> |
 | 12 - 1NOV | Alancay, Abel Matias | Alsina, Maximiliano Gabriel | <img width="30" height="30" src="https://img.icons8.com/color/30/checked-checkbox.png" alt="checked-checkbox"/> |
+| 13 - 8NOV | Alancay, Abel Matias | Alsina, Maximiliano Gabriel | <img width="30" height="30" src="https://img.icons8.com/color/30/checked-checkbox.png" alt="checked-checkbox"/> |
 
 -> [Link al Dashboard](https://github.com/orgs/CodeSystem2022/projects/1161)
 
